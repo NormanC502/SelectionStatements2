@@ -1,0 +1,16 @@
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.exe
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.deps.json
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.runtimeconfig.json
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.runtimeconfig.dev.json
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.dll
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\ref\SelectionStatements2.dll
+C:\Users\Norman Calhoun\repos\SelectionStatements2\bin\Debug\net5.0\SelectionStatements2.pdb
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.csprojAssemblyReference.cache
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.AssemblyInfoInputs.cache
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.AssemblyInfo.cs
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.csproj.CoreCompileInputs.cache
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.dll
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\ref\SelectionStatements2.dll
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.pdb
+C:\Users\Norman Calhoun\repos\SelectionStatements2\obj\Debug\net5.0\SelectionStatements2.genruntimeconfig.cache
